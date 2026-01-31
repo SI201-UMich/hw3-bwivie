@@ -1,16 +1,16 @@
 # Name: Brandon Wivietsky
 # Student ID: 3847 2237
 # Email: bwivie@umich.edu
-# Who or what you worked with on this homework (including
-#generative AI like ChatGPT: Nathaniel Mitelman, Coby Kalimian, Noam ALtman, Elliot Bolour
+# Who or what you worked with on this homework (including Nathaniel Mitelman, Coby Kalimian, Noam ALtman, Elliot Bolour
+#generative AI like ChatGPT: to navigate Terminal/GitHub
 # If you worked with generative AI also add a statement for how
-#you used it.
+#you used it. 
 # e.g.:
 # Asked ChatGPT hints for debugging and suggesting the general
-#structure of the code
+#structure of the code. NO
 # Did your use of GenAI on this assignment align with your goals
-#and guidelines in
-# your Gen AI contract? If not, why?
+#and guidelines in. Yes, I used it to help navigate GitHub/Terminal
+# your Gen AI contract? If not, why? Yes
 import random
 import io
 from contextlib import redirect_stdout
